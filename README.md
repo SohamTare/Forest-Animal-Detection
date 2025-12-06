@@ -1,4 +1,5 @@
-🌳 Forest Animal Detection & Species Info
+**🌳 Forest Animal Detection & Species Info**
+
 🧠 YOLOv3 + OpenCV + Streamlit | Real-time Wildlife Monitoring
 
 A smart AI system that detects forest animals from images & videos and shows useful species information like diet, habitat, scientific name, and conservation status.
